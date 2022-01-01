@@ -1,7 +1,5 @@
 module.exports = function toReadable(number) {
     const myNum = number;
-
-
     let str = myNum.toString();
     let digit;
     let a = [];
